@@ -27,7 +27,7 @@ Stockholm
 ## Schedule 
 
 - 30th March 2026: 9:00 - 17:00
-- 28th January 2026: 9:00 - 17:00
+- 31st March 2026: 9:00 - 17:00
 
 **Note:** *The time on the second day has been amended from earlier notifications!*
 
