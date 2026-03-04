@@ -9,7 +9,7 @@ Kungliga Tekniska Högskolan (KTH), Stockholm.
 ## Time and Date
 
 - 30-31 March 2026
-- 9:00 - 17:00 each day. 
+- 9:00 - 17:00 each day
 
 ## Registration 
 

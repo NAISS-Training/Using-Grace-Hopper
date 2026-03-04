@@ -2,44 +2,82 @@
 
 *This course is a collaboration between NAISS and PDC. The lectures will be provided by Nvidia and Hewlett Packard Enterprise (HPE)*
 
-30 - 31 March 2026
+**30 - 31 March 2026**
 
 ![KTH logo](./images/KTH_logo_RGB_bla.png){: width="200px"} ![NAISS logo](./images/naiss.png){: width="200px"}
 
 This training course will discuss the efficient use of the Grace Hopper nodes on NAISS' Dardel and NAISS' forthcoming Arrhenius system.  
 
-Dardel is NAISS' current flagship service hosted at PDC in KTH.   Arrhenius which is currently being installed will be NAISS' forthcoming powerful supercomputer that is build together with EuroHPC.   Both systems utilise hardware provided by Hewlett Packard Enterprise (HPE).  The course will delivered by consultants from HPE.  
+Dardel is NAISS' current flagship service hosted at PDC in KTH.   Arrhenius which is currently being installed will be NAISS' forthcoming powerful supercomputer that is build together with EuroHPC.   Both systems are provided by Hewlett Packard Enterprise (HPE) and include NVIDIA Grace Hopper GPU nodes.
+The course will delivered by consultants from NVIDIA and HPE.  
 
 This course is expected to be of particular interest for research groups developing Scientific software to be deployed on either Dardel or Arrhenius or both.  
 
 This course is aimed at users with experience in HPC.  It is not a beginners course.   Our NAISS introduction week (and NAISS introduction days) might be more suitable for new users of HPC. [Click here for more information on the NAISS introduction week (github.io)](https://naiss-training.github.io/NAISS-intro-week/).   
 
+** This course is intended for experienced users of HPC **  
+
 ## Location 
 
-Room: Salongen at the KTH Library  
-Osquarsbacke 31  
+KTH Campus
 Stockholm
 
-**Remark:** To reach the venue, enter through the library, then turn left (through the café).
-
-[Location of the library on Google Maps (external link)](https://www.google.com/maps/place/59°20'52.4%22N+18°04'23.1%22E/@59.347878,18.073089,802m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d59.347878!4d18.073089?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D)
+A precise location will be published closer to the event.
 
 ## Schedule 
 
 - 30th March 2026: 9:00 - 17:00
 - 31st March 2026: 9:00 - 17:00
 
-**Note:** *The time on the second day has been amended from earlier notifications!*
+## Agenda
 
-## Topics
-The course covers the following topics (preliminary agenda):
+The course covers the following topics (preliminary agenda)
 
-- 
+### 30 March 2026 Grace Hopper day:  
+*Taught by consultants from NVIDIA*
 
-There will be time in the schedule for hand on exercises on NAISS' Dardel system.  
+9:00 - 12:30
+
+- Introduction to GPU (30 min)
+   - Basics of GPU computing
+   - Comparison CPU/GPU
+   - GPU hardware features
+- Ways to accelerate applications (60 min)
+   - CUDA ecosystem
+   - Libraries
+   - Applications and Frameworks
+   - AI and HPC
+- Programming the NVIDIA platform (30 minutes)
+   - Standard languages, directives, CUDA
+   - MultiGPU considerations
+   - Compilers and developer tools
+- Grace Hopper overview (90 minutes)
+   - Grace - overview of Arm CPU
+   - Hopper - features of the Hopper architecture
+   - Grace Hopper - details
+
+13:30 - 17:00
+
+- Grace Hopper Programming Considerations (60 minutes)
+- Porting to Arm (30 minutes)
+- Nsight tools (30 minutes)
+- GH and Applications Performance (60 minutes)
+   - HPC apps, LLMs, extended memory
+- Conclusion (30 minutes)
+
+### 31 March 2026 HPE Cray day:
+*Taught by consultants from Hewlett Packard Enterprise*
+
+- Recap of Cray Architecture
+- Overview of Cray Compilers and Parallel Programming Models
+- OpenMP offload with Cray Compilation Environment
+- Debugging with Cray  Tools
+- Understanding Cray MPI on Slingshot, GPU support, and rank reordering
+
+There will be time in the schedule on 31 March for hand on exercises on NAISS' Dardel system.  
 
 The performance and debugging tools mentioned above are available on Dardel. Their availability on Arrhenius is still under investigation.
-The schedule of the course will be adopted to focus on tools that will be available on both Arrhenius and Dardel.
+
 
 
 ## Comments and questions 
@@ -48,8 +86,8 @@ Comments and questions on these training events should be sent to NAISS using <a
 
 ## Registration 
 
-Please fill in the registration form (handled by the Lund University Branch of NAISS): []()
+Please fill in the registration form: []()
 
-Registration is set to close on XX March 2026.  Acceptance on the course will be announced no later than the YY March 2026. 
+Registration is set to close on 18 March 2026.  Acceptance on the course will be announced no later than the 23 March 2026. 
 
 
