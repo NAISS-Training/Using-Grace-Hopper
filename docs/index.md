@@ -32,7 +32,7 @@ A precise location will be published closer to the event.
 
 The course covers the following topics (preliminary agenda)
 
-### 30 March 2026 Grace Hopper day:  
+### 30 March 2026: Grace Hopper day 
 *Taught by consultants from NVIDIA*
 
 9:00 - 12:30
@@ -73,7 +73,7 @@ The course covers the following topics (preliminary agenda)
 
 - Conclusion (30 minutes)
 
-### 31 March 2026 HPE Cray day:
+### 31 March 2026: HPE Cray day
 *Taught by consultants from Hewlett Packard Enterprise*
 
 - Recap of Cray Architecture
