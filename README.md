@@ -1,4 +1,4 @@
-# Efficient use of the Grace Hopper chips on Dardel and Arrhenius
+# Efficient use of the Grace Hopper nodes on Dardel and Arrhenius
 
 These pages contain information about the HPE training event on 30-31 March 2026, given under NAISS and PDC. 
 
