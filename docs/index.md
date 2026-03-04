@@ -16,13 +16,9 @@ This course is aimed at users with experience in HPC.  It is not a beginners cou
 
 ## Location 
 
-Room: Salongen at the KTH Library  
-Osquarsbacke 31  
-Stockholm
+KTH, Stockholm
+Room: Exact room details will be updated here closer to the event date
 
-**Remark:** To reach the venue, enter through the library, then turn left (through the café).
-
-[Location of the library on Google Maps (external link)](https://www.google.com/maps/place/59°20'52.4%22N+18°04'23.1%22E/@59.347878,18.073089,802m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d59.347878!4d18.073089?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D)
 
 ## Schedule 
 
@@ -50,6 +46,6 @@ Comments and questions on these training events should be sent to NAISS using <a
 
 Please fill in the registration form (handled by the Lund University Branch of NAISS): []()
 
-Registration is set to close on XX March 2026.  Acceptance on the course will be announced no later than the YY March 2026. 
+Registration is set to close on 18 March 2026.  Acceptance on the course will be announced no later than the 23 March 2026. 
 
 
