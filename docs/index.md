@@ -1,6 +1,6 @@
 # Efficient use of the Grace Hopper GPU nodes on Dardel and Arrhenius 
 
-*This course is a collaboration between NAISS and PDC. The lectures will be provided by Hewlett Packard Enterprise (HPE)*
+*This course is a collaboration between NAISS and PDC. The lectures will be provided by Nvidia and Hewlett Packard Enterprise (HPE)*
 
 30 - 31 March 2026
 
