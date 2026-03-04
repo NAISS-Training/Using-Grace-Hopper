@@ -37,30 +37,30 @@ The course covers the following topics (preliminary agenda)
 
 #### 9:00 - 12:30  
 
-**Introduction to GPU (30 min)**
+- Introduction to GPU (30 min)
 
-- Basics of GPU computing
-- Comparison CPU/GPU
-- GPU hardware features
+    - Basics of GPU computing
+    - Comparison CPU/GPU
+    - GPU hardware features
 
-**Ways to accelerate applications (60 min)**
+- Ways to accelerate applications (60 min)
 
-- CUDA ecosystem
-- Libraries
-- Applications and Frameworks
-- AI and HPC
+    - CUDA ecosystem
+    - Libraries
+    - Applications and Frameworks
+    - AI and HPC
    
-**Programming the NVIDIA platform (30 minutes)**
+- Programming the NVIDIA platform (30 minutes)
 
-- Standard languages, directives, CUDA
-- MultiGPU considerations
-- Compilers and developer tools
+    - Standard languages, directives, CUDA
+    - MultiGPU considerations
+    - Compilers and developer tools
    
-**Grace Hopper overview (90 minutes)**
+- Grace Hopper overview (90 minutes)
 
-- Grace - overview of Arm CPU
-- Hopper - features of the Hopper architecture
-- Grace Hopper - details
+    - Grace - overview of Arm CPU
+    - Hopper - features of the Hopper architecture
+    - Grace Hopper - details
 
 #### 13:30 - 17:00
 
