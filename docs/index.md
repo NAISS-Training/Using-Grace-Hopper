@@ -6,12 +6,16 @@
 
 ![KTH logo](./images/KTH_logo_RGB_bla.png){: width="200px"} ![NAISS logo](./images/naiss.png){: width="200px"}
 
-This training course will discuss the efficient use of the Grace Hopper nodes on NAISS' Dardel and NAISS' forthcoming Arrhenius system.  
+This training course will discuss the efficient use of the Grace Hopper GPU nodes on NAISS' Dardel and NAISS' forthcoming Arrhenius system.  
 
+<<<<<<< HEAD
 Dardel is NAISS' current flagship service hosted at PDC in KTH.   Arrhenius which is currently being installed will be NAISS' forthcoming powerful supercomputer that is build together with EuroHPC.   Both systems are provided by Hewlett Packard Enterprise (HPE) and include NVIDIA Grace Hopper GPU nodes.
 The course will delivered by consultants from NVIDIA and HPE.  
+=======
+Dardel is NAISS' current flagship service hosted at PDC in KTH.   Arrhenius which is currently being installed will be NAISS' forthcoming powerful supercomputer that is build together with EuroHPC.   Both systems utilise hardware provided by Hewlett Packard Enterprise (HPE).  This course will be delivered by consultants from HPE and Nvidia.  
+>>>>>>> 063c4581094a06c9a8d4301782eb8e8ce24abd91
 
-This course is expected to be of particular interest for research groups developing Scientific software to be deployed on either Dardel or Arrhenius or both.  
+This course is expected to be of particular interest for research groups developing scientific software to be deployed on either Dardel or Arrhenius or both.  
 
 This course is aimed at users with experience in HPC.  It is not a beginners course.   Our NAISS introduction week (and NAISS introduction days) might be more suitable for new users of HPC. [Click here for more information on the NAISS introduction week (github.io)](https://naiss-training.github.io/NAISS-intro-week/).   
 
