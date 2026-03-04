@@ -72,7 +72,7 @@ The course covers the following topics (preliminary agenda)
 ### 31 March 2026: HPE Cray day
 *Taught by consultants from Hewlett Packard Enterprise*
 
-- Recap of Cray Architecture
+- Cray Architecture
 - Overview of Cray Compilers and Parallel Programming Models
 - OpenMP offload with Cray Compilation Environment
 - Debugging with Cray  Tools
