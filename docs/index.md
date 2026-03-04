@@ -14,7 +14,7 @@ The course will delivered by consultants from NVIDIA and HPE.
 This course is expected to be of particular interest for research groups developing scientific software to be deployed on either Dardel or Arrhenius or both.  
 
 
-** This course is intended for experienced users of HPC **  
+**This course is intended for experienced users of HPC.**  
 
 ## Location 
 
@@ -64,14 +64,14 @@ The course covers the following topics (preliminary agenda)
 
 #### 13:30 - 17:00
 
-**Grace Hopper Programming Considerations (60 minutes)**  
-**Porting to Arm (30 minutes)**  
-**Nsight tools (30 minutes)**  
-**GH and Applications Performance (60 minutes)**
+- Grace Hopper Programming Considerations (60 minutes)
+- Porting to Arm (30 minutes)
+- Nsight tools (30 minutes)  
+- GH and Applications Performance (60 minutes)
 
-- HPC apps, LLMs, extended memory
+    - HPC apps, LLMs, extended memory
 
-**Conclusion (30 minutes)**
+- Conclusion (30 minutes)
 
 ### 31 March 2026: HPE Cray day
 *Taught by consultants from Hewlett Packard Enterprise*
