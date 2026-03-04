@@ -1,4 +1,4 @@
-# Efficient use of the Grace Hopper nodes on Dardel and Arrhenius 
+# Efficient use of the Grace Hopper GPU nodes on Dardel and Arrhenius 
 
 *This course is a collaboration between NAISS and PDC. The lectures will be provided by Hewlett Packard Enterprise (HPE)*
 
