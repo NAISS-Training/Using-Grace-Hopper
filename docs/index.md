@@ -35,39 +35,43 @@ The course covers the following topics (preliminary agenda)
 ### 30 March 2026: Grace Hopper day 
 *Taught by consultants from NVIDIA*
 
-9:00 - 12:30
+#### 9:00 - 12:30  
 
-- Introduction to GPU (30 min)
-    - Basics of GPU computing
-    - Comparison CPU/GPU
-    - GPU hardware features
+**Introduction to GPU (30 min)**
 
-- Ways to accelerate applications (60 min)
-    - CUDA ecosystem
-    - Libraries
-    - Applications and Frameworks
-    - AI and HPC
+- Basics of GPU computing
+- Comparison CPU/GPU
+- GPU hardware features
+
+**Ways to accelerate applications (60 min)**
+
+- CUDA ecosystem
+- Libraries
+- Applications and Frameworks
+- AI and HPC
    
-- Programming the NVIDIA platform (30 minutes)
-    - Standard languages, directives, CUDA
-    - MultiGPU considerations
-    - Compilers and developer tools
+**Programming the NVIDIA platform (30 minutes)**
+
+- Standard languages, directives, CUDA
+- MultiGPU considerations
+- Compilers and developer tools
    
-- Grace Hopper overview (90 minutes)
-    - Grace - overview of Arm CPU
-    - Hopper - features of the Hopper architecture
-    - Grace Hopper - details
+**Grace Hopper overview (90 minutes)**
 
-13:30 - 17:00
+- Grace - overview of Arm CPU
+- Hopper - features of the Hopper architecture
+- Grace Hopper - details
 
-- Grace Hopper Programming Considerations (60 minutes)
-- Porting to Arm (30 minutes)
-- Nsight tools (30 minutes)
-- GH and Applications Performance (60 minutes)
- 
-  - HPC apps, LLMs, extended memory
+#### 13:30 - 17:00
 
-- Conclusion (30 minutes)
+**Grace Hopper Programming Considerations (60 minutes)**  
+**Porting to Arm (30 minutes)**  
+**Nsight tools (30 minutes)**  
+**GH and Applications Performance (60 minutes)**
+
+- HPC apps, LLMs, extended memory
+
+**Conclusion (30 minutes)**
 
 ### 31 March 2026: HPE Cray day
 *Taught by consultants from Hewlett Packard Enterprise*
