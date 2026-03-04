@@ -69,7 +69,7 @@ The course covers the following topics (preliminary agenda)
 - Nsight tools (30 minutes)
 - GH and Applications Performance (60 minutes)
  
- - HPC apps, LLMs, extended memory
+  - HPC apps, LLMs, extended memory
 
 - Conclusion (30 minutes)
 
