@@ -27,7 +27,7 @@ A precise location will be published closer to the event.
 
 ### Remote
 
-Closer to the event a zoom link will be provided to registered participants.  Inter action with teachers around the event and in particular during the hands-on parts on the second name for remote participants might be limited.
+Closer to the event a zoom link will be provided to registered participants.  Inter action with teachers around the event and in particular during the hands-on parts on the second day for remote participants might be limited.
 
 ## Schedule 
 
