@@ -94,7 +94,9 @@ Comments and questions on these training events should be sent to NAISS using <a
 
 ## Registration 
 
-Please fill in the registration form: []()
+Please fill in the registration form: 
+
+[Registration form for the course (on nextcloud.naiss.se)](https://nextcloud.naiss.se/apps/forms/s/bCNKynw7Fw5SDBN2b8bL2tZg)
 
 Registration is set to close on 18 March 2026.  Acceptance on the course will be announced no later than the 23 March 2026. 
 
