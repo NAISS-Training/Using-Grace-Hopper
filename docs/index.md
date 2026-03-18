@@ -82,11 +82,42 @@ The course covers the following topics (preliminary agenda)
 ### 31 March 2026: HPE Cray day
 *Taught by consultants from Hewlett Packard Enterprise*
 
-- Cray Architecture
-- Overview of Cray Compilers and Parallel Programming Models
-- OpenMP offload with Cray Compilation Environment
-- Debugging with Cray  Tools
-- Understanding Cray MPI on Slingshot, GPU support, and rank reordering
+#### 9:00 - 9:55
+- 9:00 Welcome
+- 9:10 Cray architecture
+- 9:40 Execise
+
+- 9:55 *Break*
+
+#### 10:10 - 11:25
+
+- 10:10 Cray Compilation Environment and GPU Parallel Programming Models
+- 10:40 Exercises
+
+- 10:25 *Break*
+
+#### 11:40 - 12:50 
+- 11:40 Understanding Cray MPI on Slingshot
+- 12:10 Exercises
+
+- 12:50 *Lunch Break*
+
+#### 13:50 - 15:00
+- 13:50 Using NCCL with Slingshot
+- 14:20 Exercise
+
+- 15:00 *Break*
+
+#### 15:15 - 16:25 
+- 15:15 Debugging and profiling on GPUs
+- 15:45 Exercise
+
+- 16:25 *Break*
+
+#### 16:40 - 17:00
+- 16:40 Open Questions & Answers / Finalise the exercises
+
+#### 17:00 Close of the day
 
 There will be time in the schedule on 31 March for hand on exercises on NAISS' Dardel system.  
 
