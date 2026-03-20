@@ -20,10 +20,16 @@ This course is expected to be of particular interest for research groups develop
 
 ### On site
 
-KTH Campus
-Stockholm
+**Address:**
 
-A precise location will be published closer to the event.
+E-huset, Room E32  
+Lindstedtsvägen 3  
+Stockholm  
+
+which is located on the KTH campus.
+
+[Map showing the location of the venue (on google.com)](http://www.google.com/maps/place/59.346992,18.072964/&zoom=17)
+
 
 ### Remote
 
