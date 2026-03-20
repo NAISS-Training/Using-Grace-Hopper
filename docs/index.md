@@ -20,11 +20,9 @@ This course is expected to be of particular interest for research groups develop
 
 ### On site
 
-**Address:**
-
-E-huset, Room E32  
+*E-huset, Room E32  
 Lindstedtsvägen 3  
-Stockholm  
+Stockholm*  
 
 which is located on the KTH campus.
 
