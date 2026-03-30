@@ -98,7 +98,7 @@ The course covers the following topics (preliminary agenda)
 - 10:10 Cray Compilation Environment and GPU Parallel Programming Models
 - 10:40 Exercises
 
-- 10:25 *Break*
+- 11:25 *Break*
 
 #### 11:40 - 12:50 
 - 11:40 Understanding Cray MPI on Slingshot
